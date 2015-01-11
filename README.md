@@ -1,5 +1,6 @@
-PROJECT-HY454-2012
-==================
-A demo project of the Bubble bobble arcade made in C++ and allegro
+ PROJECT-HY454-2012
+ ==================
 
-Demo: https://www.dropbox.com/sh/cyginb3sctfrd1v/17LClsmWyy
+The Bubble bobble arcade made in C++ and allegro
+
+Download it [here](https://www.dropbox.com/sh/ncr3hrpv2wqus73/AAADgRep3js_XSkTBoY4Ztx6a?dl=0)

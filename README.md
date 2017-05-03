@@ -1,7 +1,5 @@
-==================
- PROJECT-HY454-2012
-==================
+# PROJECT-HY454-2012
 
-The Bubble bobble arcade made in C++ and allegro
+The Bubble bobble arcade made in C++ and allegro.
 
-Download it [here](https://www.dropbox.com/sh/ncr3hrpv2wqus73/AAADgRep3js_XSkTBoY4Ztx6a?dl=0)
+Download it [here](https://drive.google.com/open?id=0B98e8YqfO7GRaXk3UVBseFB5NW8)
